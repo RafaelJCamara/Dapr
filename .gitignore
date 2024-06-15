@@ -396,3 +396,19 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+Messaging/App1/.idea/.idea.App1/.idea/.gitignore
+Messaging/App1/.idea/.idea.App1/.idea/encodings.xml
+Messaging/App1/.idea/.idea.App1/.idea/indexLayout.xml
+Messaging/App1/.idea/.idea.App1/.idea/vcs.xml
+Messaging/App2/.idea/.idea.App2/.idea/.gitignore
+Messaging/App2/.idea/.idea.App2/.idea/encodings.xml
+Messaging/App2/.idea/.idea.App2/.idea/indexLayout.xml
+Messaging/App2/.idea/.idea.App2/.idea/vcs.xml
+Simple/App1/.idea/.idea.App1/.idea/.gitignore
+Simple/App1/.idea/.idea.App1/.idea/encodings.xml
+Simple/App1/.idea/.idea.App1/.idea/indexLayout.xml
+Simple/App1/.idea/.idea.App1/.idea/vcs.xml
+Simple/App2/.idea/.idea.App2/.idea/.gitignore
+Simple/App2/.idea/.idea.App2/.idea/encodings.xml
+Simple/App2/.idea/.idea.App2/.idea/indexLayout.xml
+Simple/App2/.idea/.idea.App2/.idea/vcs.xml

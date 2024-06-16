@@ -1,0 +1,12 @@
+version: 1
+common:
+  resourcesPath: ./components/
+apps:
+  - appDirPath: ./App1/App1/
+    appID: app1
+    appPort: 5250
+    command: ["dotnet", "run"]
+  - appDirPath: ./App2/App2/
+    appID: app2
+    appPort: 5291
+    command: ["dotnet", "run"]

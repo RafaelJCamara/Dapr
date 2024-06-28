@@ -1,0 +1,6 @@
+version: 1
+apps:
+  - appDirPath: ./App1/
+    appID: app1
+    appPort: 5250
+    command: ["dotnet", "run"]
